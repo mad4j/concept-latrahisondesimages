@@ -17,4 +17,4 @@ The matrix represents an outline of a pipe in SVG language.
 
 #### Bitmap
 
-![Pipe Outline](https://raw.githubusercontent.com/mad4j/infog-latrahisondesimages/master/pipe_outline.png)
+![Pipe Outline](https://raw.githubusercontent.com/mad4j/infog-latrahisondesimages/master/pipe-outline.png)
