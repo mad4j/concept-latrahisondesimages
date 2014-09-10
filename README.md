@@ -1,7 +1,7 @@
 La Trahison des Images
 =========================
 
-A silly rivisitation of the "La Trahison des Images" of Magrite.
+A silly revisiting of the ["La Trahison des Images"](http://en.wikipedia.org/wiki/The_Treachery_of_Images) of René Magrite.
 
 ![La Trahison des Images](https://raw.githubusercontent.com/mad4j/infog-latrahisondesimages/master/la trahison des images.png)
 
