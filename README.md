@@ -18,3 +18,5 @@ The matrix represents an outline of a pipe in SVG language.
 #### Bitmap
 
 ![Pipe Outline](pipe-outline.png)
+
+Daniele Olmisani 
