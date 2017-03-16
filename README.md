@@ -3,11 +3,11 @@ La Trahison des Images
 
 A silly revisiting of the ["La Trahison des Images"](http://en.wikipedia.org/wiki/The_Treachery_of_Images) of René Magrite.
 
-![La Trahison des Images](https://raw.githubusercontent.com/mad4j/infog-latrahisondesimages/master/la trahison des images.png)
+![La Trahison des Images](la_trahison_des_images.png)
 
 The matrix represents an outline of a pipe in SVG language.
 
-#### XML Path
+#### SVG Path
 
 ```
 <path
@@ -17,4 +17,4 @@ The matrix represents an outline of a pipe in SVG language.
 
 #### Bitmap
 
-![Pipe Outline](https://raw.githubusercontent.com/mad4j/infog-latrahisondesimages/master/pipe-outline.png)
+![Pipe Outline](pipe-outline.png)
